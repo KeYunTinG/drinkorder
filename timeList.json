@@ -1,0 +1,4046 @@
+{
+  "products": [
+    {
+      "id": 74534859,
+      "code": "c13abf1c-b363-49dd-928c-64d6246ae075",
+      "name": "草莓派風味星冰樂",
+      "description": "帶有酥脆草莓餅乾碎片的粉紅星冰樂，盡情享受草莓果香的甜美口感，擠上奶油和草莓碎片，在口中享受草莓派的迷人風味！注意事項：鮮奶油可能因溫度或時間因素有些微融化狀況，屬正常現象，若您無法接受，請選擇不添加鮮奶油。飲品營養標示請至選單下方【產品營養標示】欄位查詢。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/73584619.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/73584619.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/73584619.jpg",
+          "tags": {
+            "vi_ka": "true"
+          }
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 76161703,
+          "code": "d288cd4e-c3d6-4583-90f0-4af0303d3041",
+          "remote_code": "ITEM_1023503",
+          "container_price": 0,
+          "name": "大杯 (473ml)",
+          "price": 155,
+          "topping_ids": [
+            29675368,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675368,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 76161704,
+          "code": "deef91a2-285f-4eab-83c2-6e74f9ef2e48",
+          "remote_code": "ITEM_1023504",
+          "container_price": 0,
+          "name": "特大杯 (591ml)",
+          "price": 175,
+          "topping_ids": [
+            29675369,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675369,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 27398270,
+      "code": "5968341c-39f9-46ba-a3f9-7f9a752b0342",
+      "name": "香草風味星冰樂",
+      "description": "清新的香草風味搭配鮮奶調製，帶來沁涼感受。注意事項：鮮奶油可能因溫度或時間因素有些微融化狀況，屬正常現象，若您無法接受，請選擇不添加鮮奶油。飲品營養標示請至選單下方【產品營養標示】欄位查詢。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/25893527.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/25893527.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/25893527.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 28363167,
+          "code": "900981e7-ba51-43c0-86af-1b2d008342f8",
+          "remote_code": "ITEM_1000383",
+          "container_price": 0,
+          "name": "大杯 (473ml)",
+          "price": 115,
+          "topping_ids": [
+            29316805,
+            29665141,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316805,
+              "use_original_price": true
+            },
+            {
+              "id": 29665141,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 28363188,
+          "code": "73cbdaf4-31d7-4730-8b5d-bdabc5c4cbec",
+          "remote_code": "ITEM_1000384",
+          "container_price": 0,
+          "name": "特大杯 (591ml)",
+          "price": 135,
+          "topping_ids": [
+            29316804,
+            29665142,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29665142,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 27398271,
+      "code": "f30f5583-32c3-4e35-9c5a-ececc3727809",
+      "name": "摩卡可可碎片星冰樂",
+      "description": "結合星巴克咖啡、鮮奶、摩卡醬及可可碎片，透過摩卡醬裝飾，展現出多層次口感及濃郁巧克力風味，獨具魅力。注意事項：鮮奶油可能因溫度或時間因素有些微融化狀況，屬正常現象，若您無法接受，請選擇不添加鮮奶油。飲品營養標示請至選單下方【產品營養標示】欄位查詢。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/25893528.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/25893528.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/25893528.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 28363166,
+          "code": "6aee7566-49ba-45bd-83f2-c81907877b6c",
+          "remote_code": "ITEM_1001473",
+          "container_price": 0,
+          "name": "大杯 (473ml)",
+          "price": 165,
+          "topping_ids": [
+            29675367,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675367,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 28363199,
+          "code": "4863deee-1a81-4b8e-bbb6-c2b7ebb9d91e",
+          "remote_code": "ITEM_1001474",
+          "container_price": 0,
+          "name": "特大杯 (591ml)",
+          "price": 185,
+          "topping_ids": [
+            26128975,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26128975,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 22995173,
+      "code": "79c99ed8-9a5b-4b02-ac19-2b69bb728d6c",
+      "name": "焦糖可可碎片星冰樂",
+      "description": "融合了星巴克咖啡、鮮奶、焦糖風味糖漿及可可碎片，搭配甜美焦糖醬，香甜細緻的風味與多層次口感，深獲喜愛。注意事項：鮮奶油可能因溫度或時間因素有些微融化狀況，屬正常現象，若您無法接受，請選擇不添加鮮奶油。飲品營養標示請至選單下方【產品營養標示】欄位查詢。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/22541602.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/22541602.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/22541602.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 23896632,
+          "code": "f3e6e656-1e91-4c5a-9f72-e151a7d1cd10",
+          "remote_code": "ITEM_1001483",
+          "container_price": 0,
+          "name": "大杯 (473ml)",
+          "price": 165,
+          "topping_ids": [
+            29675364,
+            29665141,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675364,
+              "use_original_price": true
+            },
+            {
+              "id": 29665141,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 23896636,
+          "code": "9d738792-a027-4582-80bb-70d4b935fe57",
+          "remote_code": "ITEM_1001484",
+          "container_price": 0,
+          "name": "特大杯 (591ml)",
+          "price": 185,
+          "topping_ids": [
+            29675362,
+            29665142,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675362,
+              "use_original_price": true
+            },
+            {
+              "id": 29665142,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 22995168,
+      "code": "d9bfc85b-e216-4fbe-9eff-ad94b6c71289",
+      "name": "巧克力可可碎片星冰樂",
+      "description": "以摩卡醬、鮮奶及可可碎片調製，透過摩卡醬裝飾，展現出濃厚的巧克力風味及多重口感，深獲喜愛。注意事項：鮮奶油可能因溫度或時間因素有些微融化狀況，屬正常現象，若您無法接受，請選擇不添加鮮奶油。飲品營養標示請至選單下方【產品營養標示】欄位查詢。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/22541610.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/22541610.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/22541610.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 23896626,
+          "code": "2759746c-eee0-4097-80ae-3af8dd11b7e6",
+          "remote_code": "ITEM_1001493",
+          "container_price": 0,
+          "name": "大杯 (473ml)",
+          "price": 140,
+          "topping_ids": [
+            29675367,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675367,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 23896635,
+          "code": "8814f6c7-6bef-4c6f-ba2e-207c08f115e8",
+          "remote_code": "ITEM_1001494",
+          "container_price": 0,
+          "name": "特大杯 (591ml)",
+          "price": 160,
+          "topping_ids": [
+            26128975,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26128975,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "tags": [
+        "popular"
+      ],
+      "is_bundle": false
+    },
+    {
+      "id": 27398267,
+      "code": "7ff24574-0f45-4a9c-8904-77183ba434b3",
+      "name": "雙果果汁星冰樂",
+      "description": "融合芒果及百香果雙重水果風味，喝來清爽又洋溢熱情。飲品營養標示請至選單下方【產品營養標示】欄位查詢。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/25893529.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/25893529.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/25893529.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 28363165,
+          "code": "4175f319-b764-4ccb-b31f-cf6d3031e7fe",
+          "remote_code": "ITEM_1001783",
+          "container_price": 0,
+          "name": "大杯 (473ml)",
+          "price": 135,
+          "topping_ids": [],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [],
+          "unit_pricing": null
+        },
+        {
+          "id": 28363183,
+          "code": "dba1e876-b588-497d-9223-eaf3b117d80f",
+          "remote_code": "ITEM_1001784",
+          "container_price": 0,
+          "name": "特大杯 (591ml)",
+          "price": 155,
+          "topping_ids": [],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 50344318,
+      "code": "4ca85b5e-b677-48f7-ae49-8695d862a34b",
+      "name": "醇濃抹茶星冰樂",
+      "description": "使用精心臻選，品質優良的日本純抹茶，精緻研磨成無糖醇濃抹茶粉，加入乳品調製成美味的星冰樂，在杯中濃郁雅致的茶香氣息與綿密口感。注意事項：鮮奶油可能因溫度或時間因素有些微融化狀況，屬正常現象，若您無法接受，請選擇不添加鮮奶油。飲品營養標示請至選單下方【產品營養標示】欄位查詢。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/49725183.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/49725183.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/49725183.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 51730300,
+          "code": "f49021c3-1d36-4881-8197-0f7b6ca3ef0e",
+          "remote_code": "ITEM_1022423",
+          "container_price": 0,
+          "name": "大杯 (473ml)",
+          "price": 165,
+          "topping_ids": [
+            28837510,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 28837510,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 51730301,
+          "code": "f1f2916d-3991-4dca-8f08-66f14075c4ac",
+          "remote_code": "ITEM_1022424",
+          "container_price": 0,
+          "name": "特大杯 (591ml)",
+          "price": 185,
+          "topping_ids": [
+            28837511,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 28837511,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 78183524,
+      "code": "30ad4d11-5a15-4129-9b71-24e779fc9495",
+      "name": "鹹焦糖風味可可瑪奇朵",
+      "description": "經典濃縮咖啡搭配鹹焦糖風味，融合焦糖鹹甜香氣與奶香，為咖啡愛好者帶來優質的咖啡體驗。飲品製作皆約九分滿，乳製品去奶泡。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/77655021.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/77655021.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/77655021.jpg",
+          "tags": {
+            "vi_ka": "true"
+          }
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 79849436,
+          "code": "a7f8205b-c43a-4156-9b0d-a89f601fc7fd",
+          "remote_code": "ITEM_1023523",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 155,
+          "topping_ids": [
+            29675365,
+            29316806,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675365,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 79849437,
+          "code": "2d27b265-d3fb-4b59-b1ba-9038c27bc24a",
+          "remote_code": "ITEM_1023543",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)｜※特選豆",
+          "price": 165,
+          "topping_ids": [
+            29675365,
+            29316806,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675365,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 79849438,
+          "code": "a1d31539-df08-4542-b246-c13a68bff14d",
+          "remote_code": "ITEM_1023524",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 170,
+          "topping_ids": [
+            29675363,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675363,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 79849439,
+          "code": "b2b88250-398d-4db2-84b2-29f0cdbb0618",
+          "remote_code": "ITEM_1023544",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)｜※特選豆",
+          "price": 180,
+          "topping_ids": [
+            29675363,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675363,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 79849440,
+          "code": "9bae5049-2db5-4f8b-898b-52bc96be3924",
+          "remote_code": "ITEM_1023513",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 155,
+          "topping_ids": [
+            26045664,
+            29675365,
+            29316806,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29675365,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 79849441,
+          "code": "67219c77-1ddf-4c16-96a2-03eb35d1a357",
+          "remote_code": "ITEM_1023533",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)｜※特選豆",
+          "price": 165,
+          "topping_ids": [
+            26045664,
+            29675365,
+            29316806,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29675365,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 79849442,
+          "code": "2be2ceec-2a2d-40b0-b231-297449db6e43",
+          "remote_code": "ITEM_1023514",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 170,
+          "topping_ids": [
+            26045664,
+            29675363,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29675363,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 79849443,
+          "code": "54b56320-58d6-4535-a6c9-1a4cd1d5bbb2",
+          "remote_code": "ITEM_1023534",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)｜※特選豆",
+          "price": 180,
+          "topping_ids": [
+            26045664,
+            29675363,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29675363,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 35995780,
+      "code": "d9f058cb-f96e-4094-9fb3-aadbaf0cf6c2",
+      "name": "可可瑪奇朵",
+      "description": "第一口綿密香醇的奶泡混合著香甜可可的糖醬滋味，搭配經典義式濃縮咖啡，層次堆疊滿足味蕾的享受。感受猶如奶油般柔滑口感及細緻可可香氣。飲品製作皆約九分滿，乳製品去奶泡。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/34705733.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/34705733.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/34705733.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 37082645,
+          "code": "77c53e60-33e4-48b3-bf2d-111186c9021e",
+          "remote_code": "ITEM_1021373",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 155,
+          "topping_ids": [
+            29316805,
+            29316806,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316805,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 37082674,
+          "code": "97a21479-16d4-48dd-8577-edeb9f5ce82f",
+          "remote_code": "ITEM_1021393",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)｜※特選豆",
+          "price": 165,
+          "topping_ids": [
+            29316805,
+            29316806,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316805,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 37082713,
+          "code": "4410383e-eb76-49f0-b4b1-2a3842966360",
+          "remote_code": "ITEM_1021374",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 170,
+          "topping_ids": [
+            29316804,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 37082730,
+          "code": "c941148e-f64a-43c4-ae3e-307b110095ba",
+          "remote_code": "ITEM_1021394",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)｜※特選豆",
+          "price": 180,
+          "topping_ids": [
+            29316804,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 37082746,
+          "code": "46805da0-8b4a-43d2-bc31-d341b49c6fd4",
+          "remote_code": "ITEM_1021363",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 155,
+          "topping_ids": [
+            26045664,
+            29316805,
+            29316806,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316805,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 37082757,
+          "code": "c69ed39b-1504-491b-a344-e19db2603db1",
+          "remote_code": "ITEM_1021383",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)｜※特選豆",
+          "price": 165,
+          "topping_ids": [
+            26045664,
+            29316805,
+            29316806,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316805,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 37082771,
+          "code": "3d956880-6a01-4d03-8fe4-ab14085b2465",
+          "remote_code": "ITEM_1021364",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 170,
+          "topping_ids": [
+            26045664,
+            29316804,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 37082784,
+          "code": "587575e8-549c-4dca-ac75-ff8308b7b193",
+          "remote_code": "ITEM_1021384",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)｜※特選豆",
+          "price": 180,
+          "topping_ids": [
+            26045664,
+            29316804,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 18734301,
+      "code": "3ed33149-f767-420b-8283-27d8a8c54a48",
+      "name": "焦糖瑪奇朵",
+      "description": "融合優質鮮奶及香草風味糖漿後，倒入濃縮咖啡並在牛奶上覆以香甜焦糖醬，呈現多層次風味，是星巴克深受歡迎的飲料。飲品製作皆約九分滿，乳製品去奶泡。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/12811129.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/12811129.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/12811129.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 19460977,
+          "code": "cbff7649-20d9-4575-b118-77c7634f7cf3",
+          "remote_code": "ITEM_1000503",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 155,
+          "topping_ids": [
+            29316805,
+            29316806,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316805,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461042,
+          "code": "d2ab7273-3329-48c7-9f26-383ae9f32785",
+          "remote_code": "ITEM_1006063",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)｜※特選豆",
+          "price": 165,
+          "topping_ids": [
+            29316805,
+            29316806,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316805,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461151,
+          "code": "3e989e8f-a8fd-49e2-8afb-69b3ae7eecbb",
+          "remote_code": "ITEM_1000504",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 170,
+          "topping_ids": [
+            29316804,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461257,
+          "code": "bcefe80e-505e-4840-ac62-c5e6c8c4c580",
+          "remote_code": "ITEM_1006064",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)｜※特選豆",
+          "price": 180,
+          "topping_ids": [
+            29316804,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461314,
+          "code": "84387641-30b8-4375-b765-80efdc42aa0e",
+          "remote_code": "ITEM_1000743",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 155,
+          "topping_ids": [
+            26045664,
+            29316805,
+            29316806,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316805,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461437,
+          "code": "ce9358ed-cbf2-4b32-9382-cb9b4f737040",
+          "remote_code": "ITEM_1006053",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)｜※特選豆",
+          "price": 165,
+          "topping_ids": [
+            26045664,
+            29316805,
+            29316806,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316805,
+              "use_original_price": true
+            },
+            {
+              "id": 29316806,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461516,
+          "code": "ae41e686-7dd7-49cf-a6ae-74b461bdb718",
+          "remote_code": "ITEM_1000744",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 170,
+          "topping_ids": [
+            26045664,
+            29316804,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461644,
+          "code": "3d29a608-aae3-4843-9a22-07234eb4923f",
+          "remote_code": "ITEM_1006054",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)｜※特選豆",
+          "price": 180,
+          "topping_ids": [
+            26045664,
+            29316804,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "tags": [
+        "popular"
+      ],
+      "is_bundle": false
+    },
+    {
+      "id": 18734295,
+      "code": "17338335-c5e7-4e40-bced-e839c3b34eed",
+      "name": "馥列白",
+      "description": "此款咖啡源由自與亞洲相鄰，精品咖啡文化紮實的澳洲，在濃縮咖啡與牛奶的比例上，選擇使用較多份的ristretto shots (短濃縮)增加咖啡濃醇度的同時並凸顯咖啡甜感，由漂亮的圓點結束，完成一杯風味較濃郁且平衡的牛奶咖啡。飲品製作皆約九分滿，乳製品去奶泡。若需糖包，請勾選「需要調味佐料」。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/12811383.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/12811383.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/12811383.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 19460968,
+          "code": "aa057662-b052-47ef-9c7f-e6cb0f9cdb8e",
+          "remote_code": "ITEM_1015393",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 150,
+          "topping_ids": [
+            26045669,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461063,
+          "code": "eb2842e4-24e4-43c5-8f3e-8ea3b69d7bf5",
+          "remote_code": "ITEM_1015423",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461144,
+          "code": "4fb84a57-e876-4169-85a4-b070181295dc",
+          "remote_code": "ITEM_1015394",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 165,
+          "topping_ids": [
+            26045669,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461222,
+          "code": "1689f8c5-400f-4662-a4c8-4850eab3fcc4",
+          "remote_code": "ITEM_1015424",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)｜※特選豆",
+          "price": 175,
+          "topping_ids": [
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461318,
+          "code": "49505ea6-f564-4762-8f3e-2eeba725ec81",
+          "remote_code": "ITEM_1015383",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 150,
+          "topping_ids": [
+            26045664,
+            26045669,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461413,
+          "code": "b7ad026c-5de8-4bda-87d9-e189ee011283",
+          "remote_code": "ITEM_1015413",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            26045664,
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461489,
+          "code": "397d88ee-258a-429a-9470-2fe93be799c0",
+          "remote_code": "ITEM_1015384",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 165,
+          "topping_ids": [
+            26045664,
+            26045669,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461538,
+          "code": "940f8665-e6cc-4582-96ef-aff0cf8a7e22",
+          "remote_code": "ITEM_1015414",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)｜※特選豆",
+          "price": 175,
+          "topping_ids": [
+            26045664,
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 18734299,
+      "code": "06dcfd67-26b2-4c22-8cca-557945847d2d",
+      "name": "特選馥郁那堤",
+      "description": "精心為您挑選來自不同產區的濃縮咖啡，搭配新鮮的優質鮮奶，帶給您多元的牛奶咖啡風味。飲品製作皆約九分滿，乳製品去奶泡。若需糖包，請勾選「需要調味佐料」。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/12813386.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/12813386.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/12813386.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 19460960,
+          "code": "2386502d-3934-4a6b-b1f8-4e4dd8ebc0cc",
+          "remote_code": "ITEM_1010653",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 160,
+          "topping_ids": [
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461170,
+          "code": "644b406f-c021-40f6-be16-8e6c5ce1ba41",
+          "remote_code": "ITEM_1010654",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 175,
+          "topping_ids": [
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461239,
+          "code": "612b08d0-5c23-4546-be7c-3c65980c8637",
+          "remote_code": "ITEM_1010643",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 160,
+          "topping_ids": [
+            26045664,
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461327,
+          "code": "8ab22b25-4f18-45d2-8d51-e1a68e915a21",
+          "remote_code": "ITEM_1010644",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 175,
+          "topping_ids": [
+            26045664,
+            26045669,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 18734296,
+      "code": "4f2f38cb-134c-4d8b-9d2b-c4328a64c1d7",
+      "name": "美式咖啡",
+      "description": "以歐洲方式調製，帶來濃郁豐富的咖啡滋味。飲品製作皆約九分滿。若需糖包及奶球，請勾選「需要調味佐料」。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/12816815.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/12816815.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/12816815.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 19460964,
+          "code": "b61d9631-b719-4390-b6aa-90c80e4602b6",
+          "remote_code": "ITEM_1000123",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 110,
+          "topping_ids": [
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461019,
+          "code": "f0d15d1a-3819-48b7-a673-5d363b1b3e68",
+          "remote_code": "ITEM_1006083",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)｜※特選豆",
+          "price": 120,
+          "topping_ids": [
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461089,
+          "code": "bc34b456-f8a2-4a03-89ad-c78e2149e2b1",
+          "remote_code": "ITEM_1000124",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 125,
+          "topping_ids": [
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461201,
+          "code": "e5bb9147-f5aa-4e9f-8341-24c749719701",
+          "remote_code": "ITEM_1006084",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)｜※特選豆",
+          "price": 135,
+          "topping_ids": [
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461267,
+          "code": "dc2aaa82-98bb-4351-abee-1ac1838b5177",
+          "remote_code": "ITEM_1000133",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 110,
+          "topping_ids": [
+            26045664,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461346,
+          "code": "91d74ec8-538b-4e33-a766-e2abc1d9f0fd",
+          "remote_code": "ITEM_1006073",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)｜※特選豆",
+          "price": 120,
+          "topping_ids": [
+            26045664,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461484,
+          "code": "eea96f10-2344-4932-9c68-1010cdef0f91",
+          "remote_code": "ITEM_1000134",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 125,
+          "topping_ids": [
+            26045664,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461537,
+          "code": "86542110-4118-48d1-b5cb-8f9970be87df",
+          "remote_code": "ITEM_1006074",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)｜※特選豆",
+          "price": 135,
+          "topping_ids": [
+            26045664,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "tags": [
+        "popular"
+      ],
+      "is_bundle": false
+    },
+    {
+      "id": 18734297,
+      "code": "45a3dcad-6b07-42a8-818a-255ff85832b8",
+      "name": "那堤",
+      "description": "濃郁醇厚的濃縮咖啡，搭配新鮮的優質鮮奶。飲品製作皆約九分滿，乳製品去奶泡。若需糖包，請勾選「需要調味佐料」。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/12819750.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/12819750.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/12819750.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 19460967,
+          "code": "7effcd26-ebe7-45d5-a4c2-255bd930d894",
+          "remote_code": "ITEM_1000093",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 135,
+          "topping_ids": [
+            26045669,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461037,
+          "code": "805b1d01-2948-4f7f-bdd0-b607d5e33779",
+          "remote_code": "ITEM_1006023",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)｜※特選豆",
+          "price": 145,
+          "topping_ids": [
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461159,
+          "code": "3b5af680-0e2f-4b0d-8db2-821b3af39b2b",
+          "remote_code": "ITEM_1000094",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 150,
+          "topping_ids": [
+            26045669,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461214,
+          "code": "3bf9915b-e8e2-4cd7-8b16-bd33f40f17da",
+          "remote_code": "ITEM_1006024",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461303,
+          "code": "83411258-4df2-4e9c-a470-d611f886e4ed",
+          "remote_code": "ITEM_1000153",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 135,
+          "topping_ids": [
+            26045664,
+            26045669,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461400,
+          "code": "e66ef473-d8f3-4bc3-a423-335b9c18c196",
+          "remote_code": "ITEM_1006013",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)｜※特選豆",
+          "price": 145,
+          "topping_ids": [
+            26045664,
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461491,
+          "code": "a3f62584-4c0b-4f9d-adcb-7f1ac7b72c24",
+          "remote_code": "ITEM_1000154",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 150,
+          "topping_ids": [
+            26045664,
+            26045669,
+            27056690,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461542,
+          "code": "18689fb9-1544-4f0a-9a70-db6042b8f23d",
+          "remote_code": "ITEM_1006014",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            26045664,
+            26045669,
+            26045651,
+            29316809
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 29316809,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "tags": [
+        "popular"
+      ],
+      "is_bundle": false
+    },
+    {
+      "id": 18734298,
+      "code": "223a2ad3-73d7-4ffb-8a22-2b3e660bd46a",
+      "name": "香草風味那堤",
+      "description": "濃郁醇厚的濃縮咖啡, 融合優質鮮奶及香草風味糖漿後, 完成一杯風味豐富的牛奶咖啡。飲品製作皆約九分滿，乳製品去奶泡。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/12838592.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/12838592.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/12838592.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 19460950,
+          "code": "1e4f853c-920c-4838-8f07-39a4ff30983f",
+          "remote_code": "ITEM_1000093",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 150,
+          "topping_ids": [
+            29316804,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19460998,
+          "code": "500f0592-c495-47fb-96dd-b2346ce9cf09",
+          "remote_code": "ITEM_1006023",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            29316804,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461066,
+          "code": "5d5b9cd1-182c-4101-843c-0cf142fe7bbb",
+          "remote_code": "ITEM_1000094",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 165,
+          "topping_ids": [
+            29316803,
+            29316808,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316803,
+              "use_original_price": true
+            },
+            {
+              "id": 29316808,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461206,
+          "code": "b2ec2b2c-0176-4a7f-8b9f-d67a95c43dec",
+          "remote_code": "ITEM_1006024",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)｜※特選豆",
+          "price": 175,
+          "topping_ids": [
+            29316803,
+            29316808,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29316803,
+              "use_original_price": true
+            },
+            {
+              "id": 29316808,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461294,
+          "code": "0d06e9c7-26e7-4999-81cc-4afa5a9e4ca2",
+          "remote_code": "ITEM_1000153",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 150,
+          "topping_ids": [
+            26045664,
+            29316804,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461357,
+          "code": "7ee9429d-9eae-4323-b26a-2adc95c4660b",
+          "remote_code": "ITEM_1006013",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            26045664,
+            29316804,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316804,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461472,
+          "code": "84dbcf7a-9300-4a75-b53b-eb71496feeba",
+          "remote_code": "ITEM_1000154",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 165,
+          "topping_ids": [
+            26045664,
+            29316803,
+            29316808,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316803,
+              "use_original_price": true
+            },
+            {
+              "id": 29316808,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461519,
+          "code": "b8f7b0e2-104f-4836-8a33-06ca3edcca77",
+          "remote_code": "ITEM_1006014",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)｜※特選豆",
+          "price": 175,
+          "topping_ids": [
+            26045664,
+            29316803,
+            29316808,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29316803,
+              "use_original_price": true
+            },
+            {
+              "id": 29316808,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 18734303,
+      "code": "844416e7-dfd0-4153-ba81-d65c31d8c580",
+      "name": "榛果風味那堤",
+      "description": "濃郁醇厚的濃縮咖啡, 融合優質鮮奶及榛果風味糖漿後, 完成一杯風味豐富的牛奶咖啡。飲品製作皆約九分滿，乳製品去奶泡。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/12862342.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/12862342.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/12862342.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 19460966,
+          "code": "0cdf99b1-cb76-48ef-ad86-fc31138b9bfa",
+          "remote_code": "ITEM_1000093",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 150,
+          "topping_ids": [
+            29675361,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675361,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461021,
+          "code": "1a858113-1ec3-41b3-b8ae-06c248dc4ff7",
+          "remote_code": "ITEM_1006023",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            29675361,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675361,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461101,
+          "code": "d0b7b38c-f55d-4bf5-b41d-afba07f070c4",
+          "remote_code": "ITEM_1000094",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 165,
+          "topping_ids": [
+            29675360,
+            29316808,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675360,
+              "use_original_price": true
+            },
+            {
+              "id": 29316808,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461190,
+          "code": "68a7f4af-b828-4dc3-a7b7-eec630ed176b",
+          "remote_code": "ITEM_1006024",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)｜※特選豆",
+          "price": 175,
+          "topping_ids": [
+            29675360,
+            29316808,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 29675360,
+              "use_original_price": true
+            },
+            {
+              "id": 29316808,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461291,
+          "code": "0da5cee3-7e0a-4e81-9462-f711ef674038",
+          "remote_code": "ITEM_1000153",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 150,
+          "topping_ids": [
+            26045664,
+            29675361,
+            29316807,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29675361,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461408,
+          "code": "a04dcb0b-47af-4476-9088-4a1e781c01e4",
+          "remote_code": "ITEM_1006013",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            26045664,
+            29675361,
+            29316807,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29675361,
+              "use_original_price": true
+            },
+            {
+              "id": 29316807,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461539,
+          "code": "74d77d48-9a3f-4e87-a06b-0cfcaae4dbe1",
+          "remote_code": "ITEM_1000154",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 165,
+          "topping_ids": [
+            26045664,
+            29675360,
+            29316808,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29675360,
+              "use_original_price": true
+            },
+            {
+              "id": 29316808,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461610,
+          "code": "986e3678-511e-4f17-9803-558b90b84bac",
+          "remote_code": "ITEM_1006014",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)｜※特選豆",
+          "price": 175,
+          "topping_ids": [
+            26045664,
+            29675360,
+            29316808,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 29675360,
+              "use_original_price": true
+            },
+            {
+              "id": 29316808,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    },
+    {
+      "id": 18734294,
+      "code": "419da337-3a0b-42fe-9b64-136aa2695081",
+      "name": "摩卡",
+      "description": "由濃縮咖啡、摩卡醬及優質鮮奶調製，帶來香濃的巧克力及咖啡風味。飲品製作皆約九分滿，乳製品去奶泡，熱飲無添加鮮奶油，冰飲鮮奶油可能因溫度或時間因素有些微融化狀況，屬正常現象，若您無法接受，請選擇不添加鮮奶油。飲品營養標示請至選單下方【產品營養標示】欄位查詢。咖啡豆預設為濃縮咖啡豆，如顧客加價選購特選豆，請詳見特選咖啡豆產地。",
+      "display_price": "",
+      "master_category_id": 4,
+      "file_path": "https://images.deliveryhero.io/image/fd-tw/Products/12863589.jpg?width=%s",
+      "logo_path": "https://images.deliveryhero.io/image/fd-tw/Products/12863589.jpg?width=%s",
+      "images_urls": [],
+      "images": [
+        {
+          "image_url": "https://images.deliveryhero.io/image/fd-tw/Products/12863589.jpg",
+          "tags": {}
+        }
+      ],
+      "is_prepacked_item": false,
+      "is_sold_out": false,
+      "is_express_item": true,
+      "exclude_dish_information": false,
+      "additives": [],
+      "is_alcoholic_item": false,
+      "sold_out_options": [
+        {
+          "default": true,
+          "option": "REFUND",
+          "text": "NEXTGEN_SoldOutOptions_Refund"
+        },
+        {
+          "default": false,
+          "option": "CANCEL",
+          "text": "NEXTGEN_SoldOutOptions_Cancel"
+        },
+        {
+          "default": false,
+          "option": "CALL_CUSTOMER",
+          "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+        }
+      ],
+      "product_variations": [
+        {
+          "id": 19460946,
+          "code": "b2c8f86d-405e-4c0c-a33f-2f48b74dd628",
+          "remote_code": "ITEM_1000103",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)",
+          "price": 150,
+          "topping_ids": [
+            26128975,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26128975,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19460981,
+          "code": "3057d12c-e609-4a7d-9473-f47d23667656",
+          "remote_code": "ITEM_1006953",
+          "container_price": 0,
+          "name": "【熱】大杯 (473ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            26128975,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26128975,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461047,
+          "code": "15d48c57-26f7-4f49-ab0a-f212e75fff3c",
+          "remote_code": "ITEM_1000104",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)",
+          "price": 165,
+          "topping_ids": [
+            26128973,
+            26045669,
+            27056690,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26128973,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461109,
+          "code": "a479da00-fde8-453e-96e1-ed4fad133c67",
+          "remote_code": "ITEM_1006954",
+          "container_price": 0,
+          "name": "【熱】特大杯 (591ml)｜※特選豆",
+          "price": 175,
+          "topping_ids": [
+            26128973,
+            26045669,
+            26045651
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26128973,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461229,
+          "code": "f3a6d96e-e35b-4d3f-bf7c-d8bf5d97cbf5",
+          "remote_code": "ITEM_1000143",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)",
+          "price": 150,
+          "topping_ids": [
+            26045664,
+            26128975,
+            26045669,
+            27056690,
+            26045651,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26128975,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461312,
+          "code": "9ffb271f-36b4-4c66-a291-ce106362d837",
+          "remote_code": "ITEM_1006943",
+          "container_price": 0,
+          "name": "【冰】大杯 (473ml)｜※特選豆",
+          "price": 160,
+          "topping_ids": [
+            26045664,
+            26128975,
+            26045669,
+            26045651,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26128975,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461422,
+          "code": "8b95cfc0-a8d2-4d7b-a018-26c2e5204c5b",
+          "remote_code": "ITEM_1000144",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)",
+          "price": 165,
+          "topping_ids": [
+            26045664,
+            26128973,
+            26045669,
+            27056690,
+            26045651,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26128973,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 27056690,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        },
+        {
+          "id": 19461535,
+          "code": "5dec3025-6961-4b14-b981-5ff5f0a241b6",
+          "remote_code": "ITEM_1006944",
+          "container_price": 0,
+          "name": "【冰】特大杯 (591ml)｜※特選豆",
+          "price": 175,
+          "topping_ids": [
+            26045664,
+            26128973,
+            26045669,
+            26045651,
+            28578211
+          ],
+          "is_vegetarian": false,
+          "is_non_vegetarian": false,
+          "spiceness": "",
+          "topping_properties": [
+            {
+              "id": 26045664,
+              "use_original_price": true
+            },
+            {
+              "id": 26128973,
+              "use_original_price": true
+            },
+            {
+              "id": 26045669,
+              "use_original_price": true
+            },
+            {
+              "id": 26045651,
+              "use_original_price": true
+            },
+            {
+              "id": 28578211,
+              "use_original_price": true
+            }
+          ],
+          "unit_pricing": null
+        }
+      ],
+      "half_type": "",
+      "is_half_type_available": false,
+      "is_bundle": false
+    }
+  ]
+}
