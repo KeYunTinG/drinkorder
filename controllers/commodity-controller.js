@@ -19,6 +19,26 @@ const commodityController = {
         return res.redirect('back')
       })
   },
+  putCommodities: (req, res) => {
+    Check.findByPk(req.params.id)
+      .then(checks => {
+        checks.update({
+          absence: true
+        })
+          .then(() => {
+            req.flash('successMessage', '修改成功');
+            return res.redirect('/admin/absent')
+          })
+          .catch(() => {
+            req.flash('errorMessage', '修改失敗');
+            return res.redirect('/admin/absent')
+          })
+      })
+      .catch(() => {
+        req.flash('errorMessage', '修改失敗');
+        return res.redirect('/admin/absent')
+      })
+  },
 }
 
 module.exports = commodityController
