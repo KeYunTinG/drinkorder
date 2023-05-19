@@ -14,7 +14,6 @@ module.exports = (sequelize, DataTypes) => {
     name: DataTypes.STRING,
     description: DataTypes.STRING,
     logoPath: DataTypes.STRING,
-    cost: DataTypes.INTEGER,
   }, {
     sequelize,
     modelName: 'Commodity',

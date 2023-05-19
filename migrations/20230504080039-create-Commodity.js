@@ -17,9 +17,6 @@ module.exports = {
       logo_path: {
         type: Sequelize.STRING
       },
-      cost: {
-        type: Sequelize.INTEGER
-      },
       created_at: {
         allowNull: false,
         type: Sequelize.DATE
