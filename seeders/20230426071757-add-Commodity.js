@@ -74,7 +74,7 @@ module.exports = {
       updated_at: new Date(),
     }, {
       name: '馥列白',
-      description: '款咖啡源由自與亞洲相鄰，精品咖啡文化紮實的澳洲，在濃縮咖啡與牛奶的比例上，選擇使用較多份的ristretto shots (短濃縮)增加咖啡濃醇度的同時並凸顯咖啡甜感，由漂亮的圓點結束，完成一杯風味較濃郁且平衡的牛奶咖啡。',
+      description: '款咖啡源由自與亞洲相鄰，精品咖啡文化紮實的澳洲，在濃縮咖啡與牛奶的比例上，選擇使用較多份的ristretto shots (短濃縮)增加咖啡濃醇度的同時並凸顯咖啡甜感。',
       logo_path: 'https://images.deliveryhero.io/image/fd-tw/Products/12811383.jpg?width=%s',
       cost: 165,
       created_at: new Date(),

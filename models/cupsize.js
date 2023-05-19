@@ -3,23 +3,21 @@ const {
   Model
 } = require('sequelize')
 module.exports = (sequelize, DataTypes) => {
-  class Commodity extends Model {
+  class Cupsize extends Model {
     static associate(models) {
-      Commodity.hasMany(models.Cupsize, {
+      Cupsize.belongsTo(models.Commodity, {
         foreignKey: 'CommodityId'
       });
     }
   };
-  Commodity.init({
+  Cupsize.init({
     name: DataTypes.STRING,
-    description: DataTypes.STRING,
-    logoPath: DataTypes.STRING,
     cost: DataTypes.INTEGER,
   }, {
     sequelize,
-    modelName: 'Commodity',
-    tableName: 'Commodities',
+    modelName: 'Cupsize',
+    tableName: 'Cupsizes',
     underscored: true
   })
-  return Commodity;
+  return Cupsize;
 };
