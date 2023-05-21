@@ -3,46 +3,103 @@
     <span class="navbar-brand mb-0 h1">點單系統</span>
   </div>
 </nav>
-<div class="container">
-  <div class="main mx-auto " style="height:200px;  margin-top:10px;">
-    <div class="row row-cols-1 row-cols-md-3 g-4">
-      {{#each Commodities}}
-      <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#e{{this.id}}">
-        <div class="col">
-          <div class="card" style="height:440px">
-            <img src="{{this.logoPath}}" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">{{this.name}}</h5>
-              <p class="card-text">{{this.description}}</p>
-            </div>
-          </div>
-        </div>
-      </button>
-      <!-- Modal -->
-      <div class="modal fade" id="e{{this.id}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title" id="exampleModalLabel">請確認訂單</h5>
-              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-              <img src="{{this.logoPath}}" class="card-img-top" alt="...">
+<form action="/starbuck/confirm" method="POST" style="display: inline;">
+  <div class="container">
+    <div class="main mx-auto " style="height:200px;  margin-top:10px;">
+      <div class="row row-cols-1 row-cols-md-3 g-4">
+        {{#each time}}
+        <button type="button" class="btn btn-light" data-bs-toggle="modal" data-bs-target="#e{{this.id}}">
+          <div class="col">
+            <div class="card" style="">
+              <img src="{{this.logo_path}}" class="card-img-top" alt="...">
               <div class="card-body">
                 <h5 class="card-title">{{this.name}}</h5>
-                <p class="card-text">{{this.description}}</p>
+                {{!-- <p class="card-text">{{this.description}}</p> --}}
               </div>
             </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">返回</button>
-              <form action="/starbuck/{{this.id}}?_method=PUT" method="POST" style="display: inline;">
+          </div>
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="e{{this.id}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">請確認訂單</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                <img src="{{this.logo_path}}" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">{{this.name}}</h5>
+                  <p class="card-text">{{this.description}}</p>
+                  <div class="modal-form">
+                  </div>
+                </div>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">返回</button>
                 <button type="submit" class="btn btn-primary">送出</button>
-              </form>
+              </div>
             </div>
           </div>
         </div>
+        {{/each}}
       </div>
-      {{/each}}
     </div>
   </div>
-</div>
+</form>
+
+<script>
+  for (let i = 0; i <= 6; i++) {
+    const modalform = document.getElementsByClassName('modal-form')[i]
+    const big = [76161703, 28363167, 28363166, 23896632, 23896626, 28363165, 51730300]
+    const large = [76161704, 28363188, 28363199, 23896636, 23896635, 28363183, 51730301]
+    let modalformList =
+      `<div class="form-check">
+                    <input class="form-check-input" type="radio" name="drinkId" id="drinkId1"value="${big[i]}">
+                    <label class="form-check-label" for="drinkId1">
+                      大杯 (473ml)
+                    </label>
+                  </div>
+                  <div class="form-check">
+                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId2" value="${large[i]}"checked>
+                    <label class="form-check-label" for="drinkId2">
+                     特大杯 (591ml)
+                    </label>
+                  </div>`
+    modalform.innerHTML = modalformList
+  }
+  for (let i = 0; i <= 8; i++) {
+    const modalform = document.getElementsByClassName('modal-form')[i + 7]
+    const bigHot = [79849436, 37082645, 19460977, 19460968, 19460960, 19460964, 19460967, 19460950, 19460966, 19460946]
+    const largeHot = [79849438, 37082713, 19461151, 19461144, 19461170, 19461089, 19461159, 19461066, 19461101, 19461047]
+    const bigCold = [79849440, 37082746, 19461314, 19461318, 19461239, 19461267, 19461303, 19461294, 19461291, 19461229]
+    const largeCold = [79849442, 37082771, 19461516, 19461489, 19461327, 19461484, 19461491, 19461472, 19461539, 19461422]
+    let modalformList =
+      `<div class="form-check">
+                    <input class="form-check-input" type="radio" name="drinkId" id="drinkId1"value="${bigHot[i]}">
+                    <label class="form-check-label" for="drinkId1">
+                      【熱】大杯 (473ml)
+                    </label>
+                  </div>
+                  <div class="form-check">
+                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId2" value="${largeHot[i]}"checked>
+                    <label class="form-check-label" for="drinkId2">
+                     【熱】特大杯 (591ml)
+                    </label>
+                  </div>
+                  <div class="form-check">
+                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId3" value="${bigCold[i]}"checked>
+                    <label class="form-check-label" for="drinkId2">
+                     【冰】大杯 (473ml)
+                    </label>
+                  </div>
+                  <div class="form-check">
+                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId4" value="${largeCold[i]}"checked>
+                    <label class="form-check-label" for="drinkId2">
+                     【冰】特大杯 (591ml)
+                    </label>
+                  </div>`
+    modalform.innerHTML = modalformList
+  }
+</script>

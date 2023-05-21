@@ -11,11 +11,14 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
+      size: {
+        type: Sequelize.STRING
+      },
       cost: {
         type: Sequelize.INTEGER
       },
-      ps: {
-        type: Sequelize.STRING
+      commodity_id: {
+        type: Sequelize.INTEGER
       },
       created_at: {
         allowNull: false,

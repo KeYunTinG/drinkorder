@@ -5,15 +5,13 @@ const {
 module.exports = (sequelize, DataTypes) => {
   class Commodity extends Model {
     static associate(models) {
-      Commodity.hasMany(models.Cupsize, {
-        foreignKey: 'CommodityId'
-      });
     }
   };
   Commodity.init({
     name: DataTypes.STRING,
-    description: DataTypes.STRING,
-    logoPath: DataTypes.STRING,
+    size: DataTypes.STRING,
+    cost: DataTypes.INTEGER,
+    commodityId: DataTypes.INTEGER,
   }, {
     sequelize,
     modelName: 'Commodity',

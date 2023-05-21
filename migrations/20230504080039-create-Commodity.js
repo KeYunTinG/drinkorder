@@ -11,11 +11,14 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
-      description: {
+      size: {
         type: Sequelize.STRING
       },
-      logo_path: {
-        type: Sequelize.STRING
+      cost: {
+        type: Sequelize.INTEGER
+      },
+      commodity_id: {
+        type: Sequelize.INTEGER
       },
       created_at: {
         allowNull: false,
