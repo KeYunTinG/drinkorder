@@ -5,12 +5,10 @@ const {
 module.exports = (sequelize, DataTypes) => {
   class Order extends Model {
     static associate(models) {
-      Order.belongsTo(models.User, {
-        foreignKey: 'UserId'
-      });
     }
   };
   Order.init({
+    guest: DataTypes.STRING,
     name: DataTypes.STRING,
     size: DataTypes.STRING,
     cost: DataTypes.INTEGER,
