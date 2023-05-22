@@ -1,7 +1,7 @@
 const express = require('express')
 const session = require('express-session');
-//const helpers = require('./helpers/auth-helpers')
-//const passport = require('./config/passport')
+const helpers = require('./helpers/auth-helpers')
+const passport = require('./config/passport')
 const handlebarsHelpers = require('./helpers/handlebars-helpers')
 const exphbs = require('express-handlebars')
 const routes = require('./routes')
@@ -19,8 +19,8 @@ app.use(methodOverride('_method'));
 app.use(express.static('public'))
 app.use(session({ secret: process.env.SESSION_SECRET, resave: false, saveUninitialized: true }));
 app.use(express.urlencoded({ extended: true }))
-// app.use(passport.initialize())
-// app.use(passport.session())
+app.use(passport.initialize())
+app.use(passport.session())
 app.use(flash())
 app.use((req, res, next) => {
   res.locals.successMessage = req.flash('successMessage');

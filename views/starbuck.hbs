@@ -1,8 +1,4 @@
-<nav class="navbar navbar-light bg-light">
-  <div class="container-fluid">
-    <span class="navbar-brand mb-0 h1">點單系統</span>
-  </div>
-</nav>
+{{>navbar}}
 <form action="/starbuck/confirm" method="POST" style="display: inline;">
   <div class="container">
     <div class="main mx-auto " style="height:200px;  margin-top:10px;">
@@ -56,13 +52,13 @@
     const large = [76161704, 28363188, 28363199, 23896636, 23896635, 28363183, 51730301]
     let modalformList =
       `<div class="form-check">
-                    <input class="form-check-input" type="radio" name="drinkId" id="drinkId1"value="${big[i]}">
+                    <input class="form-check-input" type="radio" name="drinkId" id="drinkId1" value="${big[i]}">
                     <label class="form-check-label" for="drinkId1">
                       大杯 (473ml)
                     </label>
                   </div>
                   <div class="form-check">
-                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId2" value="${large[i]}"checked>
+                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId2" value="${large[i]}">
                     <label class="form-check-label" for="drinkId2">
                      特大杯 (591ml)
                     </label>
@@ -77,26 +73,26 @@
     const largeCold = [79849442, 37082771, 19461516, 19461489, 19461327, 19461484, 19461491, 19461472, 19461539, 19461422]
     let modalformList =
       `<div class="form-check">
-                    <input class="form-check-input" type="radio" name="drinkId" id="drinkId1"value="${bigHot[i]}">
-                    <label class="form-check-label" for="drinkId1">
+                    <input class="form-check-input" type="radio" name="drinkId" id="drinkId3"value="${bigHot[i]}">
+                    <label class="form-check-label" for="drinkId3">
                       【熱】大杯 (473ml)
                     </label>
                   </div>
                   <div class="form-check">
-                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId2" value="${largeHot[i]}"checked>
-                    <label class="form-check-label" for="drinkId2">
+                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId4" value="${largeHot[i]}">
+                    <label class="form-check-label" for="drinkId4">
                      【熱】特大杯 (591ml)
                     </label>
                   </div>
                   <div class="form-check">
-                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId3" value="${bigCold[i]}"checked>
-                    <label class="form-check-label" for="drinkId2">
+                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId5" value="${bigCold[i]}">
+                    <label class="form-check-label" for="drinkId5">
                      【冰】大杯 (473ml)
                     </label>
                   </div>
                   <div class="form-check">
-                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId4" value="${largeCold[i]}"checked>
-                    <label class="form-check-label" for="drinkId2">
+                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId6" value="${largeCold[i]}">
+                    <label class="form-check-label" for="drinkId6">
                      【冰】特大杯 (591ml)
                     </label>
                   </div>`
