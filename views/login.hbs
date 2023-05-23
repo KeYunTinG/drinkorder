@@ -6,12 +6,19 @@
                 <div class="card shadow-2-strong" style="border-radius: 1rem;">
                     <div class="card-body p-5 text-center">
                         <form action="/signin" method="POST" style="margin-bottom: 22px;">
-                            <h3 class="mb-5">請輸入名子</h3>
+                            <h3 class="mb-5">打卡系統</h3>
+
                             <div class="form-outline mb-4">
-                                <input type="text" id="username" name="username" class="form-control form-control-lg"
-                                    placeholder="お名前は" />
+                                <input type="text" id="account" name="account" class="form-control form-control-lg"
+                                    placeholder="帳號" />
                             </div>
-                            <button class="btn btn-primary btn-lg btn-block" type="submit">入</button>
+
+                            <div class=" form-outline mb-4">
+                                <input type="password" id="password" name="password"
+                                    class="form-control form-control-lg" placeholder="密碼" />
+                            </div>
+
+                            <button class="btn btn-primary btn-lg btn-block" type="submit">登入</button>
                         </form>
                     </div>
                 </div>
