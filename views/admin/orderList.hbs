@@ -1,17 +1,18 @@
 {{>message}}
-<div class="container-fluid">
-  <div class="admin-tweets-list" style="height: 100vh;">
+<div class="container mt-5">
+  <div class="admin-tweets-list" style="height: 100vh;margin:0 200px">
     <div class="admin-tweets-title" style="text-align: center">
-      <h1>缺勤名單</h1>
+      <h1>飲料名單</h1>
     </div>
-    {{#each checks}}
+    {{#each orders}}
     <ul class="list-group">
       <li class="list-group-item">
         <div class="row">
-          <div class="col-auto me-auto">
-            <h4 style="display: inline; vertical-align: middle;">
-              缺勤人員:{{this.User.name}}&nbsp&nbsp&nbsp缺勤日期:{{this.workingDay}}
-            </h4>
+          <div class="col">
+            點單人:{{this.guest}}
+          </div>
+          <div class="col-6">
+            品項:{{this.name}}&nbsp&nbsp&nbspsize:{{this.size}}
           </div>
           <div class="col-auto">
             <button type="button" class="btn btn-danger" data-bs-toggle="modal"
@@ -25,16 +26,16 @@
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">請確認是否修改這筆缺勤資料</h5>
+            <h5 class="modal-title" id="exampleModalLabel">請確認是否修改這筆資料</h5>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            缺勤人員:{{this.User.name}}&nbsp&nbsp&nbsp缺勤日期:{{this.workingDay}}
+            點單人:{{this.guest}}&nbsp&nbsp&nbsp品項:{{this.name}}&nbsp&nbsp&nbspsize:{{this.size}}
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">返回</button>
-            <form action="/admin/orderList/{{this.id}}?_method=PUT" method="POST" style="display: inline;">
-              <button type="submit" class="btn btn-primary">改為出勤</button>
+            <form action="/admin/orderList/{{this.id}}?_method=DELETE" method="POST" style="display: inline;">
+              <button type="submit" class="btn btn-primary">刪除</button>
             </form>
           </div>
         </div>
