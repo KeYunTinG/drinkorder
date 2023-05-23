@@ -1,8 +1,13 @@
-{{#each commodities}}
 <div class="container mt-5">
-  <h1>Welcome back, {{this.name}}!</h1>
-  <div class="">
-    <a href="/logout" type="button" class="btn btn-primary mt-4  text-center" style="text-decoration: none;">登出</a>
+  <div margin="0px auto" style="text-align:center;" ;>
+    <img src="https://i.imgur.com/KAMsDYd.png" alt="" width="10%">
+    <br>
+    <br>
+    <h2>ご注文ありがとうございました</h2>
+    <br>
+    <h3>{{guest}} 様</h3>
+    <h3>商品名:{{name}}</h3>
   </div>
-</div>
-{{/each}}
+  <script>
+    document.title = 'ご注文完了のお知らせ';
+  </script>
