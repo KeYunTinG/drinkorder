@@ -1,8 +1,14 @@
 const helpers = require('../helpers/auth-helpers')
 const db = require('../models');
 const timeList = require('../timeList.json');
+const crypto = require('crypto')
 const User = db.User;
 const Order = db.Order;
+
+const algorithm = 'aes-256-cbc'; //加密算法
+const key = crypto.randomBytes(32); //字節密鑰
+const iv = crypto.randomBytes(16); //字節初始化向量
+
 const commodityController = {
   getCommodities: (req, res) => {
     //console.log(timeList.products[0].product_variations[0].id)
@@ -16,7 +22,6 @@ const commodityController = {
       //確認此人是否點過
       Order.findOne({ where: { guest: username[0] } }).then(orders => {
         if (orders) {
-          const id = orders.id
           orderItemSize.forEach(element => {
             if (element.id == req.body.drinkId) {
               orders.update({
@@ -26,7 +31,11 @@ const commodityController = {
                 commodityId: element.id,
               })
                 .then(() => {
-                  return res.redirect(`/confirm/${orders.id}`);
+                  const strId = String(orders.id)
+                  let cipher = crypto.createCipheriv(algorithm, key, iv);
+                  let encrypted = cipher.update(`${strId}`, 'utf8', 'hex');//第一格為加密段
+                  encrypted += cipher.final('hex');
+                  return res.redirect(`/confirm/${encrypted}`);
                 })
                 .catch(() => {
                   return res.redirect('/starbuck');
@@ -44,7 +53,11 @@ const commodityController = {
                 commodityId: element.id,
               })
                 .then(() => {
-                  return res.redirect(`/confirm/${orders.id}`);
+                  const strId = String(orders.id)
+                  let cipher = crypto.createCipheriv(algorithm, key, iv);
+                  let encrypted = cipher.update(`${strId}`, 'utf8', 'hex');//第一格為加密段
+                  encrypted += cipher.final('hex');
+                  return res.redirect(`/confirm/${encrypted}`);
                 })
                 .catch(() => {
                   return res.redirect('/starbuck');
@@ -58,14 +71,17 @@ const commodityController = {
     }
   },
   getConfirm: (req, res) => {
-    Order.findOne({ where: { id: req.params.id } }).then(orders => {
-      res.render('confirm', { guest: orders.guest, name: orders.name })
+    const encrypted = String(req.params.id)
+    let decipher = crypto.createDecipheriv(algorithm, key, iv);
+    let decrypted = decipher.update(encrypted, 'hex', 'utf8');
+    decrypted += decipher.final('utf8')
+    Order.findOne({ where: { id: decrypted } }).then(orders => {
+      res.render('confirm', { guest: orders.guest, name: orders.name, size: orders.size })
     })
       .catch(() => {
         return res.redirect('/starbuck');
       })
   }
-
 }
 
 module.exports = commodityController
