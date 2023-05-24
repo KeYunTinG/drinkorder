@@ -8,6 +8,7 @@ const { authenticated, adminAuthenticated } = require('../middleware/auth')
 
 router.get('/starbuck', commodityController.getCommodities)
 router.post('/starbuck/confirm', commodityController.postCommodities)
+router.get('/loading/:username', commodityController.getJumpToConfirm)
 router.get('/confirm/:id', commodityController.getConfirm)
 
 router.get('/signin', adminController.signInPage)

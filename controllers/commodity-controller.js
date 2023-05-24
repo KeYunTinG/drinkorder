@@ -53,11 +53,7 @@ const commodityController = {
                 commodityId: element.id,
               })
                 .then(() => {
-                  const strId = String(orders.id)
-                  let cipher = crypto.createCipheriv(algorithm, key, iv);
-                  let encrypted = cipher.update(`${strId}`, 'utf8', 'hex');//第一格為加密段
-                  encrypted += cipher.final('hex');
-                  return res.redirect(`/confirm/${encrypted}`);
+                  return res.redirect(`/loading/${username[0]}`);
                 })
                 .catch(() => {
                   return res.redirect('/starbuck');
@@ -70,6 +66,25 @@ const commodityController = {
       res.redirect('back')
     }
   },
+  getJumpToConfirm: (req, res) => {
+    if (req.params.username) {
+      Order.findOne({ where: { guest: req.params.username } }).then(orders => {
+        if (orders) {
+          const strId = String(orders.id)
+          let cipher = crypto.createCipheriv(algorithm, key, iv);
+          let encrypted = cipher.update(`${strId}`, 'utf8', 'hex');//第一格為加密段
+          encrypted += cipher.final('hex');
+          return res.redirect(`/confirm/${encrypted}`);
+        } else {
+          res.redirect('back')
+        }
+      })
+    } else {
+      res.redirect('back')
+    }
+  },
+
+
   getConfirm: (req, res) => {
     const encrypted = String(req.params.id)
     let decipher = crypto.createDecipheriv(algorithm, key, iv);
