@@ -22,7 +22,12 @@ const adminController = {
       nest: true
     })
       .then(orders => {
-        res.render('admin/orderList', { orders })
+        let sum = 0
+        orders.forEach(element => {
+          sum += element.cost
+        });
+        console.log(sum)
+        res.render('admin/orderList', { orders, sum: sum })
       })
       .catch((err) => {
         return res.redirect('back')
@@ -46,10 +51,6 @@ const adminController = {
         return res.redirect('/admin/orderList')
       })
   },
-  // bcrypt.compare(password, user.password).then(res => {
-  //   if (!res) return cb(null, false, req.flash('errorMessage', '帳號或密碼輸入錯誤!'))
-  //   return cb(null, user)
-  // })
 }
 
 module.exports = adminController

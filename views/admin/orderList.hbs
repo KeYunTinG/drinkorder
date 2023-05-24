@@ -1,6 +1,6 @@
 {{>message}}
 <div class="container mt-5">
-  <div class="admin-tweets-list" style="height: 100vh;margin:0 200px">
+  <div class="admin-tweets-list" style="height: 100vh;margin:0 30px">
     <div class="admin-tweets-title" style="text-align: center">
       <h1>飲料名單</h1>
     </div>
@@ -11,8 +11,8 @@
           <div class="col">
             點單人:{{this.guest}}
           </div>
-          <div class="col-6">
-            品項:{{this.name}}&nbsp&nbsp&nbspsize:{{this.size}}
+          <div class="col-8">
+            品項:{{this.name}}&nbsp&nbsp&nbspsize:{{this.size}}&nbsp&nbsp&nbsp$:{{this.cost}}
           </div>
           <div class="col-auto">
             <button type="button" class="btn btn-danger" data-bs-toggle="modal"
@@ -30,7 +30,7 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            點單人:{{this.guest}}&nbsp&nbsp&nbsp品項:{{this.name}}&nbsp&nbsp&nbspsize:{{this.size}}
+            點單人:{{this.guest}}&nbsp&nbsp&nbsp品項:{{this.name}}&nbsp&nbsp&nbspsize:{{this.size}}&nbsp&nbsp&nbsp$:{{this.cost}}
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">返回</button>
@@ -42,6 +42,10 @@
       </div>
     </div>
     {{/each}}
+    <br>
+    <div style="text-align: center">
+      <h5>總合:{{sum}}</h5>
+    </div>
     <form action="/logout" method="GET" class="d-flex" style="justify-content: center ;margin-top:20px">
       <button class="btn btn-outline-dark" type="submit">登出</button>
     </form>
