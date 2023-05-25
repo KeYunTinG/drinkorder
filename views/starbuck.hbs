@@ -50,10 +50,10 @@
 </form>
 
 <script>
-  for (let i = 0; i <= 6; i++) {
+  for (let i = 0; i <= 5; i++) {
     const modalform = document.getElementsByClassName('modal-form')[i]
-    const big = [76161703, 28363167, 28363166, 23896632, 23896626, 28363165, 51730300]
-    const large = [76161704, 28363188, 28363199, 23896636, 23896635, 28363183, 51730301]
+    const big = [ 28363167, 28363166, 23896632, 23896626, 28363165, 51730300]
+    const large = [ 28363188, 28363199, 23896636, 23896635, 28363183, 51730301]
     let modalformList =
       `<div class="form-check">
                     <input class="form-check-input" type="radio" name="drinkId" id="drinkId1" value="${big[i]}">
@@ -70,7 +70,7 @@
     modalform.innerHTML = modalformList
   }
   for (let i = 0; i <= 9; i++) {
-    const modalform = document.getElementsByClassName('modal-form')[i + 7]
+    const modalform = document.getElementsByClassName('modal-form')[i + 6]
     const bigHot = [79849436, 37082645, 19460977, 19460968, 19460960, 19460964, 19460967, 19460950, 19460966, 19460946]
     const largeHot = [79849438, 37082713, 19461151, 19461144, 19461170, 19461089, 19461159, 19461066, 19461101, 19461047]
     const bigCold = [79849440, 37082746, 19461314, 19461318, 19461239, 19461267, 19461303, 19461294, 19461291, 19461229]
